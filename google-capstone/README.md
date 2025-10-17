@@ -78,15 +78,15 @@ How can Bellabeat utilize smart device data to gain insights into user activity,
 ---
 
 ## Visualizations
-- [Executive Dashboard](./Visualizations/Executive_overview.png)
+- [`Executive Dashboard`](./Visualizations/Executive_overview.png)
 
 View interactive dashboard: [Tableau Link](https://public.tableau.com/views/ExecutiveOverviewActivitySleepEngagement/EXECUTIVEOVERVIEW?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
-- [Activity Deep Dive](./Visualizations/Activity_deep_dive.png)
+- [`Activity Deep Dive`](./Visualizations/Activity_deep_dive.png)
 
 View interactive dashboard: [Tableau Link](https://public.tableau.com/views/ActivityDeepDive/ACTIVITYDEEPDIVE?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-- [Sleep Analysis](./Visualizations/Sleep_deep_dive.png)
+- [`Sleep Analysis`](./Visualizations/Sleep_deep_dive.png)
 
 View interactive dashboard: [Tableau Link](https://public.tableau.com/views/SleepDeepDive/SLEEPDEEPDIVE?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
