@@ -98,7 +98,7 @@ View interactive dashboard: [Tableau Link](https://public.tableau.com/views/Enga
 
 ## Files Used
 - [`merged_cleaned_dataset.xlsx`](./Data/cleaned_merged_dataset.xlsx) – Final dataset used for analysis and visualization (cleaned, merged, with calculated metrics).  
-- [`user_summary.xlsx`](./Data/User Summary.xlsx) – Aggregated summary of user-level statistics (daily steps, sleep, activity patterns).  
+- [`user_summary.xlsx`](./Data/User_Summary.xlsx) – Aggregated summary of user-level statistics (daily steps, sleep, activity patterns).  
 
 ---
 
