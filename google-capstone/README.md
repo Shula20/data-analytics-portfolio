@@ -79,15 +79,19 @@ How can Bellabeat utilize smart device data to gain insights into user activity,
 
 ## Visualizations
 - [Executive Overview](./Visualizations/Executive_Overview.png)
+
 View interactive dashboard: [Tableau Link](https://public.tableau.com/views/ExecutiveOverviewActivitySleepEngagement/EXECUTIVEOVERVIEW?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
 - [Activity Deep Dive](./Visualizations/Activity_Deep_Dive.png)
+
 View interactive dashboard: [Tableau Link](https://public.tableau.com/views/ActivityDeepDive/ACTIVITYDEEPDIVE?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - [Sleep Analysis](./Visualizations/Sleep_Deep_Dive.png)
+
 View interactive dashboard: [Tableau Link](https://public.tableau.com/views/SleepDeepDive/SLEEPDEEPDIVE?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - [Engagement Correlation](./Visualizations/Engagement_Correlation.png)
+
 View interactive dashboard: [Tableau Link](https://public.tableau.com/views/EngagementsCorrelations/ENGAGEMENTSCORRELATIONS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
@@ -100,4 +104,5 @@ View interactive dashboard: [Tableau Link](https://public.tableau.com/views/Enga
 
 ## Author
 **Shulammite Okafor**
+
 [LinkedIn](https://www.linkedin.com/in/shulammiteokafor) | [Email](mailto:okaforshula@gmail.com)
