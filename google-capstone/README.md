@@ -78,19 +78,19 @@ How can Bellabeat utilize smart device data to gain insights into user activity,
 ---
 
 ## Visualizations
-- ![Executive Dashboard](./Visualizations/EXECUTIVE OVERVIEW.png)
+- [Executive Dashboard](./Visualizations/EXECUTIVE_OVERVIEW.png)
 
 View interactive dashboard: [Tableau Link](https://public.tableau.com/views/ExecutiveOverviewActivitySleepEngagement/EXECUTIVEOVERVIEW?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
-- ![Activity Deep Dive](./Visualizations/ACTIVITY DEEP DIVE.png)
+- [Activity Deep Dive](./Visualizations/ACTIVITY_DEEP_DIVE.png)
 
 View interactive dashboard: [Tableau Link](https://public.tableau.com/views/ActivityDeepDive/ACTIVITYDEEPDIVE?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-- ![Sleep Analysis](./Visualizations/SLEEP DEEP DIVE.png)
+- [Sleep Analysis](./Visualizations/SLEEP_DEEP_DIVE.png)
 
 View interactive dashboard: [Tableau Link](https://public.tableau.com/views/SleepDeepDive/SLEEPDEEPDIVE?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-- ![Engagement Correlation](./Visualizations/ENGAGEMENTS & CORRELATIONS.png)
+- [Engagement Correlation](./Visualizations/ENGAGEMENTS_&_CORRELATIONS.png)
 
 View interactive dashboard: [Tableau Link](https://public.tableau.com/views/EngagementsCorrelations/ENGAGEMENTSCORRELATIONS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
