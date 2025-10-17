@@ -78,27 +78,27 @@ How can Bellabeat utilize smart device data to gain insights into user activity,
 ---
 
 ## Visualizations
-- [Executive Overview](./Visualizations/Executive_Overview.png)
+- [Executive Overview](./Visualizations/EXECUTIVE OVERVIEW.png)
 
 View interactive dashboard: [Tableau Link](https://public.tableau.com/views/ExecutiveOverviewActivitySleepEngagement/EXECUTIVEOVERVIEW?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
-- [Activity Deep Dive](./Visualizations/Activity_Deep_Dive.png)
+- [Activity Deep Dive](./Visualizations/ACTIVITY DEEP DIVE.png)
 
 View interactive dashboard: [Tableau Link](https://public.tableau.com/views/ActivityDeepDive/ACTIVITYDEEPDIVE?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-- [Sleep Analysis](./Visualizations/Sleep_Deep_Dive.png)
+- [Sleep Analysis](./Visualizations/SLEEP DEEP DIVE.png)
 
 View interactive dashboard: [Tableau Link](https://public.tableau.com/views/SleepDeepDive/SLEEPDEEPDIVE?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-- [Engagement Correlation](./Visualizations/Engagement_Correlation.png)
+- [Engagement Correlation](./Visualizations/ENGAGEMENTS & CORRELATIONS.png)
 
 View interactive dashboard: [Tableau Link](https://public.tableau.com/views/EngagementsCorrelations/ENGAGEMENTSCORRELATIONS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
 ## Files Used
-- [`merged_cleaned_dataset.xlsx`](./Data/merged_cleaned_dataset.xlsx) – Final dataset used for analysis and visualization (cleaned, merged, with calculated metrics).  
-- [`user_summary.xlsx`](./Data/user_summary.xlsx) – Aggregated summary of user-level statistics (daily steps, sleep, activity patterns).  
+- [`merged_cleaned_dataset.xlsx`](./Data/cleaned_merged_dataset.xlsx) – Final dataset used for analysis and visualization (cleaned, merged, with calculated metrics).  
+- [`user_summary.xlsx`](./Data/User_Summary.xlsx) – Aggregated summary of user-level statistics (daily steps, sleep, activity patterns).  
 
 ---
 
