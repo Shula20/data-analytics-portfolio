@@ -32,4 +32,4 @@ I’m a public health professional passionate about using data to understand and
 This portfolio is an ongoing reflection of my learning and growth as a data analyst with projects that connect analytics, health, and impact.
 
 ## Connect With Me
-[LinkedIn](https:// www.linkedin.com/in/shulammiteokafor) | [Email](mailto:okaforshula@gmail.com)
+**LinkedIn:** [https:// www.linkedin.com/in/shulammiteokafor] | [Email](mailto:okaforshula@gmail.com)
